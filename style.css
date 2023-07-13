@@ -1,0 +1,214 @@
+.header{
+    background-color: rgb(69, 133, 133);
+   
+}
+.banner{
+    padding: 3opx 30px 30px 150px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(211, 214, 214);
+
+}
+.banner-content{
+    margin-left: 50px;
+
+}
+
+h2{
+    font-family: 'Open Sans',sans-serif;
+
+}
+.btn-primary{
+     background-color: brown;
+     color: white;
+} 
+
+.banner.profile-pic{
+    width: 500px;
+
+}
+
+
+
+
+
+
+
+
+.main{
+    background-color: rgb(231, 231, 247);
+}
+
+.banner1-content{
+    text-align: center;
+    margin-left: 250px;
+    
+
+}
+.style-img{
+text-align: center;
+}
+.img-1{
+    background-color: rgb(216, 183, 196);
+    height: 400px;
+    width: 300px;
+    border-radius: 43% 43% 0px 0px ;
+
+    
+}
+.img-2{
+    background-color: rgb(174, 219, 219);
+    height: 400px;
+    width: 300px;
+    border-radius: 43% 43% 0px 0px ;
+
+}
+.img-3{
+    background-color: rgb(240, 245, 245);
+    height: 400px;
+    width: 300px;
+    border-radius: 43% 43% 0px 0px ;
+}
+.p-style{
+    display: flex;
+}
+.p-1{
+    margin-left: 550px;
+    text-decoration: underline;
+}
+.p-2{
+    margin-left: 200px;
+    text-decoration: underline;
+}
+.p-3{
+    margin-left: 200px;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+.latest photo{
+    background-color: rgb(82, 78, 74);
+
+}
+.banner-b-content{
+
+    text-align: center;
+    margin-top: 50px;
+}
+.img-b{
+text-align:center;
+}
+.img-b1{
+    width: 400px;
+    height:300px;
+}
+.img-b2{
+    width: 400px;
+    height:300px;
+}
+.img-b3{
+    width: 400px;
+    height:300px;
+}
+.img-b4{
+    width: 400px;
+    height:300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.banner2-content{
+    text-align: center;
+    margin-left:250px;
+    margin-top: 100px;
+    
+}
+.Hote-Deal{
+    display: flex;
+    background-color: rgb(210, 218, 218);
+    
+
+}
+.img-4{
+    margin-left: 300px;
+
+}
+.button-2{
+background-color: red;
+color: white;
+}
+span{
+    color:red;
+}
+
+
+
+
+
+
+
+.banner3-content{
+text-align: center;
+margin-top: 50px;
+}
+.style-img2{
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+header{
+    width: 40o0px;
+    height: 600px;
+    display: flex;
+background-image: url(images/Rectangle\ 9.png);
+background-repeat: no-repeat;
+background-position: center;
+padding-top: 300px;
+padding-left: 800px;
+
+}
+.button-3{
+    background-color: red;
+    color: white;
+}
+
+
+
+
+
+.banner5-content{
+    width: 2000px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+.span1{
+    color: brown;
+}
+
