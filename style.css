@@ -1,3 +1,4 @@
+/*---section 1---*/
 .header{
     background-color: rgb(69, 133, 133);
    
@@ -30,7 +31,7 @@ h2{
 
 
 
-
+/*----section-2----*/
 
 
 
@@ -89,7 +90,7 @@ text-align: center;
 
 
 
-
+/*---section-b----*/
 
 .latest photo{
     background-color: rgb(82, 78, 74);
@@ -131,7 +132,7 @@ text-align:center;
 
 
 
-
+/*----section-3---*/
 
 
 .banner2-content{
@@ -162,8 +163,7 @@ span{
 
 
 
-
-
+/*---section-4---*/
 .banner3-content{
 text-align: center;
 margin-top: 50px;
@@ -178,7 +178,7 @@ text-align: center;
 
 
 
-
+/*---section-5---*/
 
 header{
     width: 40o0px;
@@ -198,7 +198,7 @@ padding-left: 800px;
 
 
 
-
+/*---section-6---*/
 
 .banner5-content{
     width: 2000px;
